@@ -21,7 +21,7 @@ The present data set shows the code that was used to generate of the time doma
 
         pip install empymod
     
-3. Download, clone, or fork on **GitHub**: [github.com/prisae/empymod](https://github.com/prisae/empymod).
+3. Download, clone, or fork on **GitHub**: [github.com/danusamayara/vvcsem](https://github.com/danusamayara/vvcsem).
    To install it run
 
         python setup.py install
