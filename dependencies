@@ -1,0 +1,10 @@
+Dependencies: 
+-Minimum requirements are Python version 3.6 or higher;
+-Modules scipy and numba.
+
+If you are new to Python we recommend using a Python distribution, which will ensure that all dependencies are met, specifically properly compiled versions of NumPy and SciPy;
+we recommend using Anaconda. If you install Anaconda you can simply start the Anaconda Navigator, add the channel conda-forge and empymod will appear in the package list and can be installed with a click.
+
+Using NumPy and SciPy with the Intel Math Kernel Library (mkl) can significantly improve computation time.
+You can check if mkl is used via conda list: The entries for the BLAS and LAPACK libraries should contain something with mkl, not with openblas.
+To enforce it you might have to create a file pinned, containing the line libblas[build=*mkl] in the folder path-to-your-conda-env/conda-meta/.
