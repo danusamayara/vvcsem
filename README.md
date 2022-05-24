@@ -1,5 +1,6 @@
 # vvcsem
-TIME DOMAIN MODELING – VVCSEM EXAMPLE https://zenodo.org/record/6369599#.Yo0gRajMLMU
+TIME DOMAIN MODELING – VVCSEM EXAMPLE ![image](https://user-images.githubusercontent.com/40836619/170104295-4183dba6-a337-47a6-abc2-18d4c628a8c3.png)
+
 
 When it comes to electrical and electromagnetic computational modeling, the difficulties are the mathematical formulations that describe the events that one wants to represent/analyze, as well as the field behavior, its components in different media and, mainly, transient behavior in the field measurements. Thus, a number of professionals and even companies dedicated and dedicated their research to the development and improvement of codes in different languages and platforms.
 
